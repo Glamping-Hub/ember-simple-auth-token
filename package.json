@@ -1,7 +1,7 @@
 {
   "name": "gh-ember-simple-auth-token",
   "version": "6.0.0-beta.1",
-  "private": true,
+  "private": false,
   "repository": "",
   "license": "MIT",
   "author": "",
