@@ -6,7 +6,7 @@
   "license": "MIT",
   "author": "",
   "scripts": {
-    "build": "pnpm --filter @triptyk/ember-simple-auth-token build",
+    "build": "pnpm install && pnpm --filter @triptyk/ember-simple-auth-token build",
     "lint": "pnpm --filter '*' lint",
     "lint:fix": "pnpm --filter '*' lint:fix",
     "prepare": "pnpm build",
