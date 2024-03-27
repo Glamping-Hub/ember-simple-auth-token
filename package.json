@@ -1,12 +1,12 @@
 {
-  "name": "workspace-root",
+  "name": "gh-ember-simple-auth-token",
   "version": "6.0.0-beta.1",
   "private": true,
   "repository": "",
   "license": "MIT",
   "author": "",
   "scripts": {
-    "build": "pnpm install && pnpm --filter @triptyk/ember-simple-auth-token build",
+    "build": "pnpm --filter @triptyk/ember-simple-auth-token build",
     "lint": "pnpm --filter '*' lint",
     "lint:fix": "pnpm --filter '*' lint:fix",
     "prepare": "pnpm build",
